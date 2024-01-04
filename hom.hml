@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css1.css">
+</head>
+<body>
+<h class="double"> ALL PRODUCTS</h>
+<h class="double"> NEW ARRIVAL</h>
+<ol><li> MENS WEAR</li>
+<ul><li> shirts</li><li>
+t-shirts</li>
+<li>jeans</li>
+<li>innerwear</ul>
+<li> WOMENS WEAR</li>
+<ul><li>tops</li>
+<li>sportswear</li>
+<li>tracksuites</li>  </ul>
+<li>
+KIDS WEAR</li>
+</ol>
+
+</body>
+</html>
